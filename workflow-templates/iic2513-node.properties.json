@@ -1,0 +1,13 @@
+{
+  "name": "IIC2513 Node Workflow",
+  "description": "IIC2513 Node CI workflow template.",
+  "iconName": "example-icon",
+  "categories": [
+      "node"
+  ],
+  "filePatterns": [
+      "package.json$",
+      "^Dockerfile",
+      ".*\\.md$"
+  ]
+}
